@@ -1,2 +1,2 @@
-# Pymaceuticals-Inc.
+# Pymaceuticals-Inc
 Matplotlib Homework - The Power of Plots
